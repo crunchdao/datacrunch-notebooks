@@ -1,13 +1,19 @@
-# datacrunch-notebooks
+# About Datacrunch
 
-This repository contains various jupyther notebooks provided by the datacrunch crew.
+"The first truly open hedge fund"
+
+Join the adventure here: [Join](https://tournament.datacrunch.com/)
+
+# Datacrunch-notebooks
+
+This repository contains jupyter notebooks provided by the Datacrunch crew.
 
 ## Installation (Google Colab)
 
-To use any of the notebooks in this repository, you will have to go on the [Google Colab](https://colab.research.google.com/) website.
+To use any of the notebooks in this repository, you could use [Google Colab](https://colab.research.google.com/) website.
 
 - Create an account (if not already)
-- Click on `File` (top-left of the page)
+- Click on `File` (top-left)
 - Click `Import a notebook`
 - Click on `GitHub`
 - Paste this repository link: `https://github.com/datacrunch-com/datacrunch-notebooks`
@@ -15,7 +21,7 @@ To use any of the notebooks in this repository, you will have to go on the [Goog
 
 ## Usage
 
-To quickly execute a cell, do `SHIFT` + `ENTER`.
+`SHIFT` + `ENTER` to execute cell or click "Play" button on left
 
 ## Contributing
 
