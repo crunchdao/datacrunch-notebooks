@@ -2,7 +2,7 @@
 
 "The first truly open hedge fund"
 
-Join the adventure here: [Join](https://tournament.datacrunch.com/)
+Join the adventure here: [Join](https://tournament.crunchdao.com/)
 
 # Datacrunch-notebooks
 
