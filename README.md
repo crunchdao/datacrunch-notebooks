@@ -1,12 +1,16 @@
-# About Datacrunch
+# About CrunchDAO
 
-"The first truly open hedge fund"
+CrunchDAO is a market neutral hedge fund controled by a DAO of datascientists.
+
+The DAO is openly sharing data. Participants can collect and try to build model on the top of the fund investement strategies.
+
+Participants are rewarded with $CRUNCH tokens according to the correlation of their predictions and the markets.
 
 Join the adventure here: [Join](https://tournament.crunchdao.com/)
 
-# Datacrunch-notebooks
+# CrunchDAO-notebooks
 
-This repository contains jupyter notebooks provided by the Datacrunch crew.
+This repository contains jupyter notebooks provided by CrunchDAO members.
 
 ## Installation (Google Colab)
 
