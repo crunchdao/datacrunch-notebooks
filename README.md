@@ -20,7 +20,7 @@ To use any of the notebooks in this repository, you could use [Google Colab](htt
 - Click on `File` (top-left)
 - Click `Import a notebook`
 - Click on `GitHub`
-- Paste this repository link: `https://github.com/datacrunch-com/datacrunch-notebooks`
+- Paste this repository link: `https://github.com/crunchdao/notebooks`
 - Then click on the notebook you want to use
 
 ## Usage
