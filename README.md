@@ -1,6 +1,6 @@
 # About CrunchDAO
 
-CrunchDAO is a market neutral hedge fund controled by a DAO of datascientists.
+CrunchDAO serves as a secure intermediary, enabling data-scientists to keep control of their models while powering financial institutions.
 
 The DAO is openly sharing data. Participants can collect and try to build model on the top of the fund investement strategies.
 
