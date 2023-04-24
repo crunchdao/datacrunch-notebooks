@@ -2,8 +2,6 @@
 
 CrunchDAO serves as a secure intermediary, enabling data-scientists to keep control of their models while powering financial institutions.
 
-The DAO is openly sharing data. Participants can collect and try to build model on the top of the fund investement strategies.
-
 Participants are rewarded with $CRUNCH tokens according to the correlation of their predictions and the markets.
 
 Join the adventure here: [Join](https://tournament.crunchdao.com/)
