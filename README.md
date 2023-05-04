@@ -2,11 +2,11 @@
 
 CrunchDAO serves as a secure intermediary, enabling data-scientists to keep control of their models while powering financial institutions.
 
-Participants are rewarded with $CRUNCH tokens according to the correlation of their predictions and the markets.
+Participants are rewarded with $CRUNCH tokens according to the correlation of their predictions with the markets.
 
-Join the adventure here: [Join](https://tournament.crunchdao.com/)
+Join the adventure here: [Join](https://account.crunchdao.com/auth/register)
 
-# CrunchDAO-notebooks
+## CrunchDAO-notebooks
 
 This repository contains jupyter notebooks provided by CrunchDAO members.
 
